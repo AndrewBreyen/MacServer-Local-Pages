@@ -1,3 +1,23 @@
-site_name: My Docs
+site_name: MacServer
+theme:
+  logo: img/macmini-icon.png
+  favicon: img/macmini-icon.png
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
 markdown_extensions:
+  - attr_list
+  - tables
   - attr_list
