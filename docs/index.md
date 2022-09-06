@@ -12,9 +12,9 @@ Use these links to access MacServer Services
 
 [![jellyfin](img/apps/jellyfin.png){ width="100"}](http://macserver.local:8096/)
 [![homebridge](img/apps/homebridge.png){ width="100"}](http://macserver.local:8581/)
-[![scrypted](img/apps/scrypted.png){ width="100"}](https://192.168.0.2:10443/)
+[![scrypted](img/apps/scrypted.png){ width="100"}](http://macserver.local:10443/)
 
-[![pi-hole](img/apps/pihole.png){ width="100"}](http://192.168.0.4/admin/)
+[![pi-hole](img/apps/pihole.png){ width="100"}](http://192.168.4.4/admin/)
 [![node-red](img/apps/node-red.png){ width="100"}](http://macserver.local:1880/)
 [![jumpcloud-admin](img/apps/jumpcloud.png){ width="100"}](https://console.jumpcloud.com/login/admin)
 
